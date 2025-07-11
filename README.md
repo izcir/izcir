@@ -64,16 +64,6 @@
 
 <div align="center">
 
-### 🔝 Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=izcir&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" />
-
-</div>
-
----
-
-<div align="center">
-
 [![](https://visitcount.itsvg.in/api?id=izcir&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
