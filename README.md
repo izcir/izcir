@@ -4,12 +4,30 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramazanizci/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramazan.izcir@gmail.com) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/izcipy)
 
 </div>
 
 ---
 
 <div align="center">
+
+<div align="center">
+
+## 🚀 Bazı Projelerim
+
+🔹 [**sinavizcisi.com**](https://sinavizcisi.com)  
+Üniversite yerleştirme sürecine destek olan, yoğun veri analizi içeren yapay zeka tabanlı en kapsamlı projelerimden biri.  
+(Açık kaynak değil, ama üzerinde en çok gurur duyduğum çalışmalarımdan biri.)
+
+🔹 [**ramazanizci.com**](https://ramazanizci.com)  
+Kişisel portfolyo sitem; projelerim ve hakkımda daha detaylı bilgilerin yer aldığı bir platform.  
+[GitHub Repo](https://github.com/izcir/ramazanizci.com)
+
+</div>
+
+---
+
 
 ## 💻 Tech Stack
 
