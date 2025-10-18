@@ -129,12 +129,6 @@
 
 ---
 
-## 🐍 My Contributions (Snake Eating Animation)
-
-![Snake animation](https://github.com/izcir/izcir/blob/output/dist/github-contribution-grid-snake-dark.svg)
-
----
-
 ## 🕒 Aktivite Grafiği
 
 [![Ramazan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=izcir&bg_color=0d1117&color=38bdae&line=38bdae&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
