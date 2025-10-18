@@ -131,7 +131,7 @@
 
 ## 🐍 My Contributions (Snake Eating Animation)
 
-![snake gif](https://github.com/izcir/izcir/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/izcir/izcir/blob/output/dist/github-contribution-grid-snake-dark.svg)
 
 ---
 
